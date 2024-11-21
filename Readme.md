@@ -1,6 +1,6 @@
 # Guillaume, learner @BeCode
 
-I am a 3O years old jurist trying to change career and become a fullstack developper.
+I am a 25 years old jurist trying to change career and become a fullstack developper.
 
 ## Skills
 1. Eat
@@ -26,7 +26,7 @@ I look forward to get a stable job at the end of the formation.
 
 ## Things I value in teamwork
 
-I love working as a team, it allows us to share and learn knowledge but also it is a way to socialize and to bond.
+I love working as a team, it allows us to share and learn knowledge but also it is a way to socialize and to bond.rrrrrr
 
 ## GIF
 
